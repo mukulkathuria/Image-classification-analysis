@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1 Score,Training Time (s),Inference Time (s)
+EfficientNetB0,0.2310,0.0753,0.2310,0.1113,556.50,14.5604
+ResNet50V2,0.8585,0.8626,0.8585,0.8597,809.72,16.6789
+MobileNetV3Large,0.7870,0.7875,0.7870,0.7837,389.36,9.5055
+YOLO-like,0.8990,0.9025,0.8990,0.9000,347.93,1.9655
